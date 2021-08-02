@@ -194,7 +194,7 @@ MariaDB [sqlthapa]> show tables;
 | testnull           |
 | waji               |
 +--------------------+
-5 rows in set (0.002 sec)
+5 rows in set (0.00  2 sec)
 
 MariaDB [sqlthapa]> drop table students;
 Query OK, 0 rows affected (0.595 sec)
